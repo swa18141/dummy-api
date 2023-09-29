@@ -2,7 +2,6 @@ name: API Trigger
 
 on:
   workflow_dispatch:
-
 jobs:
   apigee-window-artifacts:
     name: FL Apigee Artifacts Export
